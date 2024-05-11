@@ -1,6 +1,6 @@
 # EX 2c.SIMULATING ARP /RARP PROTOCOLS
-### Register No: 212222110032
-### Name: Prabha C
+### Register No: 212223220064
+### Name: NARESH.M
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
